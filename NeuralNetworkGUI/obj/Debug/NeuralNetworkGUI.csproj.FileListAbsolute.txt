@@ -1,0 +1,10 @@
+D:\other_projects\C_Sharp_projects\Neural_Network\Neural network lib\NeuralNetworkGUI\bin\Debug\NeuralNetworkGUI.exe
+D:\other_projects\C_Sharp_projects\Neural_Network\Neural network lib\NeuralNetworkGUI\bin\Debug\NeuralNetworkGUI.pdb
+D:\other_projects\C_Sharp_projects\Neural_Network\Neural network lib\NeuralNetworkGUI\obj\Debug\ResolveAssemblyReference.cache
+D:\other_projects\C_Sharp_projects\Neural_Network\Neural network lib\NeuralNetworkGUI\obj\Debug\NeuralNetworkGUI.Properties.Resources.resources
+D:\other_projects\C_Sharp_projects\Neural_Network\Neural network lib\NeuralNetworkGUI\obj\Debug\NeuralNetworkGUI.csproj.GenerateResource.Cache
+D:\other_projects\C_Sharp_projects\Neural_Network\Neural network lib\NeuralNetworkGUI\obj\Debug\NeuralNetworkGUI.exe
+D:\other_projects\C_Sharp_projects\Neural_Network\Neural network lib\NeuralNetworkGUI\obj\Debug\NeuralNetworkGUI.pdb
+D:\other_projects\C_Sharp_projects\Neural_Network\Neural network lib\NeuralNetworkGUI\obj\Debug\NeuralNetworkGUI.NeuralNetworkCreator.resources
+D:\other_projects\C_Sharp_projects\Neural_Network\Neural network lib\NeuralNetworkGUI\bin\Debug\Neural network lib.dll
+D:\other_projects\C_Sharp_projects\Neural_Network\Neural network lib\NeuralNetworkGUI\bin\Debug\Neural network lib.pdb

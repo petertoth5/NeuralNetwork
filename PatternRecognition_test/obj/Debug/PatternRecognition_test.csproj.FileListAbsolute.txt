@@ -1,0 +1,21 @@
+D:\Magán_projektek\C_Sharp_projects\Neural_Network\Neural network lib\PatternRecognition_test\bin\Debug\PatternRecognition_test.exe
+D:\Magán_projektek\C_Sharp_projects\Neural_Network\Neural network lib\PatternRecognition_test\bin\Debug\PatternRecognition_test.pdb
+D:\Magán_projektek\C_Sharp_projects\Neural_Network\Neural network lib\PatternRecognition_test\bin\Debug\Neural network lib.dll
+D:\Magán_projektek\C_Sharp_projects\Neural_Network\Neural network lib\PatternRecognition_test\bin\Debug\Neural network lib.pdb
+D:\Magán_projektek\C_Sharp_projects\Neural_Network\Neural network lib\PatternRecognition_test\obj\Debug\ResolveAssemblyReference.cache
+D:\Magán_projektek\C_Sharp_projects\Neural_Network\Neural network lib\PatternRecognition_test\obj\Debug\PatternRecognition_test.exe
+D:\Magán_projektek\C_Sharp_projects\Neural_Network\Neural network lib\PatternRecognition_test\obj\Debug\PatternRecognition_test.pdb
+D:\Visual Studio workspace\Neural network lib\PatternRecognition_test\obj\Debug\PatternRecognition_test.exe
+D:\Visual Studio workspace\Neural network lib\PatternRecognition_test\obj\Debug\PatternRecognition_test.pdb
+D:\Visual Studio workspace\Neural network lib\PatternRecognition_test\bin\Debug\PatternRecognition_test.exe
+D:\Visual Studio workspace\Neural network lib\PatternRecognition_test\bin\Debug\PatternRecognition_test.pdb
+D:\Visual Studio workspace\Neural network lib\PatternRecognition_test\bin\Debug\Neural network lib.dll
+D:\Visual Studio workspace\Neural network lib\PatternRecognition_test\bin\Debug\Neural network lib.pdb
+D:\Visual Studio workspace\Neural network lib\PatternRecognition_test\obj\Debug\ResolveAssemblyReference.cache
+D:\other_projects\C_Sharp_projects\Neural_Network\Neural network lib\PatternRecognition_test\obj\Debug\PatternRecognition_test.exe
+D:\other_projects\C_Sharp_projects\Neural_Network\Neural network lib\PatternRecognition_test\obj\Debug\PatternRecognition_test.pdb
+D:\other_projects\C_Sharp_projects\Neural_Network\Neural network lib\PatternRecognition_test\bin\Debug\PatternRecognition_test.exe
+D:\other_projects\C_Sharp_projects\Neural_Network\Neural network lib\PatternRecognition_test\bin\Debug\PatternRecognition_test.pdb
+D:\other_projects\C_Sharp_projects\Neural_Network\Neural network lib\PatternRecognition_test\bin\Debug\Neural network lib.dll
+D:\other_projects\C_Sharp_projects\Neural_Network\Neural network lib\PatternRecognition_test\bin\Debug\Neural network lib.pdb
+D:\other_projects\C_Sharp_projects\Neural_Network\Neural network lib\PatternRecognition_test\obj\Debug\ResolveAssemblyReference.cache
